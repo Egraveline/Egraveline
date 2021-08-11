@@ -3,4 +3,4 @@
 - 🔭 I’m currently working as Mobile Developer for IBM Canada
 - 🌱 I’m currently learning more about Jetpack Compose
 - 💬 Ask me about Android Development
-- 📫 How to reach me: ethiennegraveline@gmail.com https://www.linkedin.com/in/etgraveline/
+- 📫 How to reach me: ethiennegraveline@gmail.com or https://www.linkedin.com/in/etgraveline/
